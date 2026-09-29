@@ -159,7 +159,7 @@ The official name and identifier are taken from the spreadsheet rather than blin
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Kronoos08/python-file-record-matcher.git
 cd python-file-record-matcher
 ```
 
@@ -451,4 +451,4 @@ Potential future improvements include:
 
 ## License
 
-A license can be added before public distribution.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
